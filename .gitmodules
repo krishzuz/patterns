@@ -1,0 +1,3 @@
+[submodule "patterns-fe"]
+	path = patterns-fe
+	url = git@github.com:krishzuz/patterns.git
